@@ -6,14 +6,6 @@
 ![php][PHP]
 ![excel][Excel]
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HigorZicaDev/site-pizza-per-favore/main/img/CardapioPizza1.png" alt="Image Example" width="400px">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HigorZicaDev/site-pizza-per-favore/main/img/CardapioPizza2.png" alt="Image Example" width="400px">
-</p>
-
 <h2 id="started">📌 About</h2>
 
 Pour exécuter ce projet vous devez disposer de PHP version 7 ou supérieure et d'une base de données Excel comme dans l'exemple du fichier sorte.csv
